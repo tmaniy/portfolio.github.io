@@ -184,6 +184,36 @@ th,td{
 	margin: 30px auto;
 	text-align: center;
 }
+.achievements {
+    background-color: #101010;
+    width: 100%;
+    padding: 100px 0px;
+    height: 500px;
+    
+    padding: 10px;
+}
+
+.achievements h1 {
+    color: rgb(246, 252, 162);
+    text-align: center;
+    padding-top: 20px;
+    font-size: 72px;
+    padding-bottom: 20px;
+}
+
+.achievements ol {
+    list-style: circle;
+    color: rgb(194, 209, 224);
+    padding-left: 50px;
+    line-height: 40px;
+}
+
+.achievements li a {
+    font-size: 27px;
+    font-weight: 20px;
+    color: rgb(231, 214, 190);
+    text-decoration: none;
+}
 
 .gallery-img{
 	margin:5px;
